@@ -1,0 +1,15 @@
+Know your billing in & out - how to set alerts, budgets and how billing, Cost Explorer and Billing Reports work across accounts. This is something that only hands-on will teach you until the class is updated. Thankfully, I use AWS Orgs at work.
+
+Know S3 really well. Read the S3 FAQs, the S3 troubleshooting guide and how S3 Security works (ACL/Bucket Policies) and CRUD APIs.
+
+Really practice hands-on S3 ACLs and Bucket policies.
+
+Read the CloudFront FAQs
+
+Read the CloudFormation FAQs and think scaling, distributed environments and troubleshooting
+
+Study AWS Organizations, SCPs, IAM, Security Groups and NACLs.
+
+Read the FAQs & API basics for ACM, and Classic and Application Load Balancing.
+
+Have a good understanding of networking, VPNs/Direct Connect Routing, Security Groups, and NACLs. For this, I actually studied the videos relating to these topics in the Advanced Networking and Solution Architecture Pro courses.  Add a lab on VPC logging.
